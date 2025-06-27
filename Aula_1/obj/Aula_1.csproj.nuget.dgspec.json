@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dev\\bootcamp\\c devops\\C_DevOps\\Aula_1\\Aula_1.csproj": {}
+    "E:\\Programacao\\DIO\\C DevOps\\C_DevOps\\Aula_1\\Aula_1.csproj": {}
   },
   "projects": {
-    "E:\\dev\\bootcamp\\c devops\\C_DevOps\\Aula_1\\Aula_1.csproj": {
+    "E:\\Programacao\\DIO\\C DevOps\\C_DevOps\\Aula_1\\Aula_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dev\\bootcamp\\c devops\\C_DevOps\\Aula_1\\Aula_1.csproj",
+        "projectUniqueName": "E:\\Programacao\\DIO\\C DevOps\\C_DevOps\\Aula_1\\Aula_1.csproj",
         "projectName": "Aula_1",
-        "projectPath": "E:\\dev\\bootcamp\\c devops\\C_DevOps\\Aula_1\\Aula_1.csproj",
-        "packagesPath": "C:\\Users\\rauls\\.nuget\\packages\\",
-        "outputPath": "E:\\dev\\bootcamp\\c devops\\C_DevOps\\Aula_1\\obj\\",
+        "projectPath": "E:\\Programacao\\DIO\\C DevOps\\C_DevOps\\Aula_1\\Aula_1.csproj",
+        "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
+        "outputPath": "E:\\Programacao\\DIO\\C DevOps\\C_DevOps\\Aula_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rauls\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

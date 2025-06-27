@@ -1,0 +1,15 @@
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.AssemblyInfoInputs.cache
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.AssemblyInfo.cs
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.csproj.CoreCompileInputs.cache
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.sourcelink.json
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\bin\Debug\net9.0\Aula_1.exe
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\bin\Debug\net9.0\Aula_1.deps.json
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\bin\Debug\net9.0\Aula_1.runtimeconfig.json
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\bin\Debug\net9.0\Aula_1.dll
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\bin\Debug\net9.0\Aula_1.pdb
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.dll
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\refint\Aula_1.dll
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.pdb
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\Aula_1.genruntimeconfig.cache
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_1\obj\Debug\net9.0\ref\Aula_1.dll

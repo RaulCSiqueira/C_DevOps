@@ -1,14 +1,15 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Theading.Tasks;
+//using System.Theading;
+//using System.Theading.Tasks;
 
 namespace ExemploFundamentos.Models
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
-        public int Idade { get; set; }
+        public string? Nome { get; set; }
+        public int? Idade { get; set; }
 
         public void Apresentar()
         {
