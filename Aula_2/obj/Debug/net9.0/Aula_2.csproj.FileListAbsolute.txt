@@ -1,0 +1,15 @@
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\bin\Debug\net9.0\Aula_2.exe
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\bin\Debug\net9.0\Aula_2.deps.json
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\bin\Debug\net9.0\Aula_2.runtimeconfig.json
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\bin\Debug\net9.0\Aula_2.dll
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\bin\Debug\net9.0\Aula_2.pdb
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.AssemblyInfoInputs.cache
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.AssemblyInfo.cs
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.csproj.CoreCompileInputs.cache
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.sourcelink.json
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.dll
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\refint\Aula_2.dll
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.pdb
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\Aula_2.genruntimeconfig.cache
+E:\Programacao\DIO\C DevOps\C_DevOps\Aula_2\obj\Debug\net9.0\ref\Aula_2.dll
